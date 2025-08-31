@@ -15,8 +15,8 @@
 
 ## What to Expect
 This README documents two Python programs:
-1. Normalization Problem  
-2. Divisible by 3 Problem  
+1. Normalization Problem (data preprocessing using mean and standard deviation)
+2. Divisible by 3 Problem (array creation, reshaping, and boolean indexing) 
 
 Each section includes the **actual code with line-by-line explanations inside the code comments**, describing the process and why each 
 function or operation is used.
