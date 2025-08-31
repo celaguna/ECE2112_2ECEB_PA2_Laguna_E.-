@@ -29,7 +29,7 @@ function or operation is used.
 3. [Normalization Problem](#normalization-problem)  
 4. [Divisible by 3 Problem](#divisible-by-3-problem)  
 5. [Conclusion](#-conclusion)
-6. [Programming Assingment 2 .ipynb file](
+6. [Programming Assingment 2 .ipynb file](PA2_LAGUNA.ipynb)
 
 ---
 
