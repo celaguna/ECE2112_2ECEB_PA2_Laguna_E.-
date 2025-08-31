@@ -36,7 +36,9 @@ function or operation is used.
 ## Normalization Problem
 ### Problem Description
 The goal of this problem is to create a random 5x5 matrix and normalize its values using the formula:
+
 𝑍 = 𝑋 − 𝑥̅ / 𝜎 where 𝑥̅ is the mean and 𝜎 is the standard deviation.
+
 This introduces the concept of data preprocessing and the use of NumPy’s mathematical functions like .mean() and .std() to standardize datasets.
 
 ### Code
